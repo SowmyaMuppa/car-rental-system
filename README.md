@@ -19,7 +19,3 @@ Technologies Used:
 HTML/CSS/JavaScript (Frontend)
 [Your Backend Framework/Language, e.g., Python, Java, PHP]
 Database: [e.g., MySQL, PostgreSQL]
-
-How to Use
-Clone the repository:
-git clone https://github.com/your-username/CarRentalSystemProject.git
